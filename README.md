@@ -1,1 +1,2 @@
-This is a small little game I am working on. I learned "print" in class and expanded heavily from that, doing my own research and copying and pasting. Play the demo, not the beta.
+This is a small little game I am working on. I learned "print" in class and expanded heavily, doing my research; copying and pasting what I learned. Beta v1 is currently being worked on. If you somehow got a copy of Beta v1 early, before Beta v1 was unfinished...then you're slick, aren't ya? Naughty Naughty.
+Only a few are giving closed access to the unfinished Beta unless you downloaded the unfinished Beta v1 before it was taken down.
